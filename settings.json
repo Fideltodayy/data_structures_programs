@@ -1,0 +1,39 @@
+{
+    "C_Cpp.errorSquiggles": "Disabled",
+    "sqltools.connections": [
+        {
+            "mysqlOptions": {
+                "authProtocol": "default"
+            },
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 3306,
+            "driver": "MySQL",
+            "name": "firstSQL",
+            "database": "myrest",
+            "username": "fide",
+            "password": "fide"
+        },
+        {
+            "mysqlOptions": {
+                "authProtocol": "default"
+            },
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 3306,
+            "driver": "MySQL",
+            "name": "database",
+            "database": "nyrest",
+            "username": "fide",
+            "password": "fide"
+        }
+    ],
+    "files.associations": {
+        "iostream": "cpp",
+        "string": "cpp",
+        "new": "cpp",
+        "array": "cpp",
+        "string_view": "cpp",
+        "initializer_list": "cpp"
+    }
+}
